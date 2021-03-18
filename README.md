@@ -1,2 +1,0 @@
-# bastianholamundo
-numero1
